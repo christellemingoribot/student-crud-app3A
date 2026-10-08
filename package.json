@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node scripts.js"
+  },
   "dependencies": {
     "dotenv": "^18.0.2",
     "express": "^5.2.1",
